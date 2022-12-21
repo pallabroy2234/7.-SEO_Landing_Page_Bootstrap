@@ -1,0 +1,53 @@
+@media (max-width: 1440px) {
+  .services-wrapper .service-phone {
+    max-width: 80%;
+  }
+}
+
+@media (max-width: 1230px) {
+  .services-wrapper .service-phone {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  section {
+    padding: 20px 0;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+
+  .navigation-wrapper .nav-item .nav-link {
+    margin-top: 15px;
+    font-size: 1.5rem;
+  }
+  .navigation-wrapper .menu-navbar-nav {
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 15px;
+  }
+  /* ! Blog section */
+  .blog-wrapper .newsletter {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  h1 {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  /* ! Top Banner  */
+  .top-banner {
+    padding-top: 80px;
+  }
+}
